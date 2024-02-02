@@ -85,6 +85,7 @@ In the quest to redefine embryo quality assessment, our project represents a con
 
 Code link : https://colab.research.google.com/drive/1IDd8YBLMRZdypg1NnIy_RslvjLgMAWOU?usp=sharing
 
+Presentation Link : https://docs.google.com/presentation/d/17-IPYaxYWiT5rHYpviSfdU5_MlhzQZfYDwlzPHZujag/edit#slide=id.g29f27c995e2_6_14 
 
 ## References:
 - https://www.institutobernabeu.com/en/blog/criteria-for-embryo-classification/
